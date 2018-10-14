@@ -2,7 +2,7 @@ int inputPin = 0;
 
 int Vo;
 
-float R0 = 10000;
+float R1 = 10000;
 
 float logR2, R2, T, C;
 
